@@ -316,7 +316,7 @@ target_include_directories(dobby_static PUBLIC
   )
 
 set_target_properties(dobby_static
-  PROPERTIES OUTPUT_NAME "dobby"
+  PROPERTIES OUTPUT_NAME "dobby_static"
   )
 
 # ---
